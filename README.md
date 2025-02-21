@@ -1,1 +1,1 @@
-# kontur-talk-rpm
+## kontur-talk UNOFFICIAL repo

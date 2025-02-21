@@ -1,0 +1,6 @@
+[ktalk-yum]
+name=ktalk-yum
+baseurl=https://raw.githubusercontent.com/GogoLike/kontur-talk-rpm/master/
+repo_gpgcheck=0
+gpgcheck=0
+enabled=1
